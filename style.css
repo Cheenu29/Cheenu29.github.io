@@ -383,7 +383,13 @@ header .navbar ul li a:hover{
   height:fit-content;
 }
 
+th, td {
+  border-collapse: separate;
+  overflow: hidden;
+  padding: 1em;
+  border-bottom: 2px solid #ddd;
 
+  }
 
 
 
